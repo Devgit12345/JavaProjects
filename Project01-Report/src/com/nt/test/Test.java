@@ -6,4 +6,12 @@ public class Test {
 		System.out.println("Test.m1()");
 
 	}
+	private void m2() {
+		System.out.println();
+
+	}
+	private void m3() {
+		System.out.println("Data");
+
+	}
 }
